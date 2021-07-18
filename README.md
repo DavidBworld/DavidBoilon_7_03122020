@@ -30,6 +30,8 @@ Le backend a été crée avec **Node.js**, **Express.js** et **MySQL** comme bas
     <br />
 -   Écrivez dans la ligne de commande `node config_db.js` pour configurer la base de données.
 
+        node config_db.js
+
 ### Development server
 
 Démarrer `nodemon server` pour avoir accès au serveur de développement. L'application va se recharger automatiquement si vous modifiez un fichier source.
