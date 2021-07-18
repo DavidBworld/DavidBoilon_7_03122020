@@ -32,12 +32,6 @@ Le backend a été crée avec **Node.js**, **Express.js** et **MySQL** comme bas
 
         node config_db.js
 
-### Development server
-
-Démarrer `npm start` pour avoir accès au serveur de développement. Avec `nodemon server`,  l'application va se recharger automatiquement si vous modifiez un fichier source.
-
-        npm start
-
 # Frontend
 
 Le frontend a été crée avec React.js
@@ -48,8 +42,10 @@ Dans le dossier `/frontend` démarrez `npm install` pour installer toutes les d�
 
 ### Development server
 
-Démarrer `npm start` pour avoir accès au serveur de développement. L'application va se recharger automatiquement si vous modifiez un fichier source.
+Démarrer `npm start` pour avoir accès au serveur de développement. Avec `nodemon server`,  l'application va se recharger automatiquement si vous modifiez un fichier source.
 
+        npm start
+        
 ## Droits Admin
 
 Pour tester les droits d'admin, changez le valeur sur le champ account dans le tableau users, de user pour admin.
