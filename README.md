@@ -34,7 +34,9 @@ Le backend a été crée avec **Node.js**, **Express.js** et **MySQL** comme bas
 
 ### Development server
 
-Démarrer `nodemon server` pour avoir accès au serveur de développement. L'application va se recharger automatiquement si vous modifiez un fichier source.
+Démarrer `npm start` pour avoir accès au serveur de développement. Avec `nodemon server`,  l'application va se recharger automatiquement si vous modifiez un fichier source.
+
+        npm start
 
 # Frontend
 
