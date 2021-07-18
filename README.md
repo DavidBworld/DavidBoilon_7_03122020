@@ -24,7 +24,7 @@ Le backend a été crée avec **Node.js**, **Express.js** et **MySQL** comme bas
 -   Démarrer `npm install` pour installer toutes les dependencies du backend.
     <br />
     
-    npm install
+        npm install
     
 -   Dans le fichier `.env`, veuillez rentrer le host, les identifiants de votre utilisateur admin et le nom de la base de données que vous souhaitez créer.
     <br />
